@@ -28,4 +28,4 @@ git init
   <img src="https://avatars.githubusercontent.com/u/24943522?s=40&v=4" />
 </a>
 
-**Dmitry A** - [@Diman331](https://github.com/Diman331)
+**Dmitry A** - [@Diman331](https://github.com/Diman331/ed)
